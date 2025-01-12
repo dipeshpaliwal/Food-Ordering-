@@ -8,6 +8,7 @@ This is a Django-based web application designed to streamline restaurant orders,
 
  ![Home](https://github.com/dipeshpaliwal/Food-Ordering-/blob/main/Restraunt_project/Screenshot%20(14).png?raw=true)
 
+
 ## Features
 
 1. **Order Food**  
@@ -16,6 +17,10 @@ This is a Django-based web application designed to streamline restaurant orders,
      - Pizzas
      - Pasta  
    - Users can select their desired items and quantities before placing an order.
+  
+
+
+ ![Menu](https://github.com/dipeshpaliwal/Food-Ordering-/blob/main/Restraunt_project/Screenshot%20(15).png?raw=true)
 
 2. **Table Booking**  
    - A dedicated form to book tables for a preferred date and time.
