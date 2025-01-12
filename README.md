@@ -33,6 +33,8 @@ This is a Django-based web application designed to streamline restaurant orders,
 3. **Feedback Submission**  
    - A form for customers to share their dining experiences.
    - Captures user input for improving the service quality.
+  
+   ![Feedback](https://github.com/dipeshpaliwal/Food-Ordering-/blob/main/Restraunt_project/Screenshot%20(18).png?raw=true)
 
 ## Tech Stack
 
