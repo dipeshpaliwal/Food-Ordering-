@@ -25,6 +25,10 @@ This is a Django-based web application designed to streamline restaurant orders,
 2. **Table Booking**  
    - A dedicated form to book tables for a preferred date and time.
    - Ensures hassle-free dining experience by securing reservations in advance.
+  
+
+
+ ![Booking](https://github.com/dipeshpaliwal/Food-Ordering-/blob/main/Restraunt_project/Screenshot%20(17).png?raw=true)
 
 3. **Feedback Submission**  
    - A form for customers to share their dining experiences.
