@@ -6,6 +6,8 @@ This is a Django-based web application designed to streamline restaurant orders,
 - Book a table in advance.
 - Share feedback to improve the restaurant's services.
 
+- ![Home](images/order-form.png)
+
 ## Features
 
 1. **Order Food**  
