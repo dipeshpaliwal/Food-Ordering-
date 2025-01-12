@@ -6,7 +6,7 @@ This is a Django-based web application designed to streamline restaurant orders,
 - Book a table in advance.
 - Share feedback to improve the restaurant's services.
 
-- ![Home](images/order-form.png)
+- ![Home](https://github.com/dipeshpaliwal/Food-Ordering-/blob/main/Restraunt_project/Screenshot%20(14).png?raw=true)
 
 ## Features
 
